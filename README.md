@@ -6,7 +6,8 @@
 </p>
 
 <div align="center">
-  <img src="[https://via.placeholder.com/1024x256.png?text=AI+ML+Dev+Animation](https://www.google.com/url?sa=i&url=https%3A%2F%2Flivewireindia.com%2Fblog%2Fmachine-learning-classroom-training-2019%2F&psig=AOvVaw23lQd69-gYrCLF08NTS9Z4&ust=1757168033034000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICGu5XnwY8DFQAAAAAdAAAAABAf)" alt="AI ML Development Animation" width="700">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" 
+       alt="AI ML Development Animation" width="700">
 </div>
 
 
