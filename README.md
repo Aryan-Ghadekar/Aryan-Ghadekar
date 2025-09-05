@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flivewireindia.com%2Fblog%2Fmachine-learning-classroom-training-2019%2F&psig=AOvVaw23lQd69-gYrCLF08NTS9Z4&ust=1757168033034000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICGu5XnwY8DFQAAAAAdAAAAABAz" 
+  <img src="https://www.livewireindia.com/blog/wp-content/uploads/2019/06/1_37ABKi4XeHkEWHxlF3LIog.gif" 
        alt="AI ML Development Animation" width="700">
 </div>
 
