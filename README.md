@@ -7,7 +7,7 @@
 
 <div align="center">
   <img src="https://www.livewireindia.com/blog/wp-content/uploads/2019/06/1_37ABKi4XeHkEWHxlF3LIog.gif" 
-       alt="AI ML Development Animation" width="700">
+       alt="AI ML Development Animation" width="500">
 </div>
 
 
