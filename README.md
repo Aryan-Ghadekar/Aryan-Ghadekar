@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aryan Ghadekar</h1>
 <h3 align="center">A passionate AI Backend developer from India</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=AI+Backend+Developer;Machine+Learning+Engineer;Building+Smart+Systems" alt="Typing SVG" />
+</p>
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryan-ghadekar" alt="aryan-ghadekar" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
