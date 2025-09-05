@@ -4,6 +4,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=AI+Backend+Developer;Machine+Learning+Engineer;Building+Smart+Systems" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Digital_rain_animation_medium_letters_shine.gif"
+       alt="AI Backend Developer — Matrix digital rain"
+       width="700" />
+  <br/>
+  <samp><b>AI Backend Developer</b></samp>
+</p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryan-ghadekar" alt="aryan-ghadekar" /></a> </p>
 
