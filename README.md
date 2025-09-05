@@ -5,6 +5,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=AI+Backend+Developer;Machine+Learning+Engineer;Building+Smart+Systems" alt="Typing SVG" />
 </p>
 
+<div align="center">
+  <img src="https://via.placeholder.com/1024x256.png?text=AI+ML+Dev+Animation" alt="AI ML Development Animation" width="700">
+</div>
+
+
 - 🌱 I’m currently learning **MERN Stack**  
 - 📫 How to reach me **aryanghadekar@gmail.com**
 
